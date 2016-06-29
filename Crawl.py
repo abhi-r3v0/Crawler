@@ -35,7 +35,5 @@ def main():
 	crawl.pwn_cookies(args.u)
 
 
-	if not
-
 if __name__ == '__main__':
 	main()
